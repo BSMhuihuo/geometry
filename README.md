@@ -1,14 +1,8 @@
-当然！我帮你把整个 README.md 重新排版整理，保证格式规范且目录跳转链接正确，代码块也用正确的标记，不会乱。以下是清晰整洁且可以直接用的版本：
-
 ````markdown
 # 📐 Geometry Utilities Library
 
 A comprehensive Python toolkit for 2D geometric computations, including line/segment operations, point relationships, angle calculations, circle geometry, and obstacle detection.
 
----
-
-
----
 
 ## 🛠️ Installation
 
