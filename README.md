@@ -181,11 +181,7 @@ print(f"Tangent points: {tangents}")
 3. 添加测试并提交代码
 4. 提交 Pull Request 🎉
 
----
 
-## 📄 License
-
-本项目采用 [MIT License](https://opensource.org/licenses/MIT) 授权，支持学术和商业用途，需注明原作者。
 
 ---
 
