@@ -1,3 +1,6 @@
+当然！我帮你把整个 README.md 重新排版整理，保证格式规范且目录跳转链接正确，代码块也用正确的标记，不会乱。以下是清晰整洁且可以直接用的版本：
+
+````markdown
 # 📐 Geometry Utilities Library
 
 A comprehensive Python toolkit for 2D geometric computations, including line/segment operations, point relationships, angle calculations, circle geometry, and obstacle detection.
@@ -20,14 +23,14 @@ A comprehensive Python toolkit for 2D geometric computations, including line/seg
 - [License](#license)
 
 ---
-```bash
 
 ## 🛠️ Installation
 
-
+```bash
 pip install numpy scipy sympy
+````
 
-
+然后将 `geometry.py` 文件复制到你的项目目录中。
 
 ---
 
@@ -207,4 +210,17 @@ print(f"Tangent points: {tangents}")
 
 > ✨ 本工具适用于图形学、机器人路径规划、博弈建模、地图导航等多个领域，欢迎分享与反馈。
 
+```
+
+---
+
+**说明**：
+
+- 每个章节标题与前面都有空行，方便 GitHub 渲染  
+- 代码块用三个反引号并标明语言，格式清晰  
+- 目录链接全部小写，空格转横线，符合 GitHub 规范  
+- 不含多余的空反引号或缩进错误  
+
+保存成 `README.md`，上传到 GitHub 后，左侧目录点点即可跳转对应章节。  
+需要帮你自动生成这个文件的纯文本版本吗？
 ```
