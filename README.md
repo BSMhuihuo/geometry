@@ -1,4 +1,3 @@
-````markdown
 # 📐 Geometry Utilities Library
 
 A comprehensive Python toolkit for 2D geometric computations, including line/segment operations, point relationships, angle calculations, circle geometry, and obstacle detection.
@@ -26,7 +25,7 @@ A comprehensive Python toolkit for 2D geometric computations, including line/seg
 
 ```bash
 pip install numpy scipy sympy
-````
+
 
 
 ---
