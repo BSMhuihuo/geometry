@@ -7,20 +7,6 @@ A comprehensive Python toolkit for 2D geometric computations, including line/seg
 
 ---
 
-## 📚 Table of Contents
-
-- [Installation](#installation)  
-- [Features](#features)  
-- [API Reference](#api-reference)  
-  - [Line Operations](#line-operations)  
-  - [Point Operations](#point-operations)  
-  - [Angle Calculations](#angle-calculations)  
-  - [Circle Operations](#circle-operations)  
-  - [Obstacle Handling](#obstacle-handling)  
-  - [Vector Operations](#vector-operations)  
-- [Usage Examples](#usage-examples)  
-- [Contributing](#contributing)  
-- [License](#license)
 
 ---
 
@@ -212,15 +198,4 @@ print(f"Tangent points: {tangents}")
 
 ```
 
----
-
-**说明**：
-
-- 每个章节标题与前面都有空行，方便 GitHub 渲染  
-- 代码块用三个反引号并标明语言，格式清晰  
-- 目录链接全部小写，空格转横线，符合 GitHub 规范  
-- 不含多余的空反引号或缩进错误  
-
-保存成 `README.md`，上传到 GitHub 后，左侧目录点点即可跳转对应章节。  
-需要帮你自动生成这个文件的纯文本版本吗？
 ```
