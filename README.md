@@ -28,7 +28,6 @@ A comprehensive Python toolkit for 2D geometric computations, including line/seg
 pip install numpy scipy sympy
 ````
 
-然后将 `geometry.py` 文件复制到你的项目目录中。
 
 ---
 
