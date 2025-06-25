@@ -20,10 +20,11 @@ A comprehensive Python toolkit for 2D geometric computations, including line/seg
 - [License](#license)
 
 ---
+```bash
 
 ## 🛠️ Installation
 
-```bash
+
 pip install numpy scipy sympy
 
 
