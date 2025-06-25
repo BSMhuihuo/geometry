@@ -2,6 +2,24 @@
 
 A comprehensive Python toolkit for 2D geometric computations, including line/segment operations, point relationships, angle calculations, circle geometry, and obstacle detection.
 
+---
+
+## 📚 Table of Contents
+
+- [Installation](#installation)  
+- [Features](#features)  
+- [API Reference](#api-reference)  
+  - [Line Operations](#line-operations)  
+  - [Point Operations](#point-operations)  
+  - [Angle Calculations](#angle-calculations)  
+  - [Circle Operations](#circle-operations)  
+  - [Obstacle Handling](#obstacle-handling)  
+  - [Vector Operations](#vector-operations)  
+- [Usage Examples](#usage-examples)  
+- [Contributing](#contributing)  
+- [License](#license)
+
+---
 
 ## 🛠️ Installation
 
@@ -190,5 +208,6 @@ print(f"Tangent points: {tangents}")
 > ✨ 本工具适用于图形学、机器人路径规划、博弈建模、地图导航等多个领域，欢迎分享与反馈。
 
 ```
+
 
 ```
